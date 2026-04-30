@@ -248,4 +248,4 @@ For any issues or questions, please create an issue in the repository or contact
 
 ---
 
-**Built with ❤️ using the MERN stack**
+
