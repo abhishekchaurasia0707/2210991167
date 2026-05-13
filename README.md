@@ -1,4 +1,18 @@
-# Smart Campus Booking System
+
+Project Title: Smart Campus Booking System
+Team Member
+2210991167 Abhishek Kumar
+
+Project Type: Copyright
+Current Status: Waiting
+Files Included
+IPR Submission Proof
+Report
+PPT
+Source Code
+
+
+#Project Explanation
 
 A full-stack web application for booking campus resources and managing events using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
